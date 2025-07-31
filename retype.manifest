@@ -1,0 +1,100 @@
+{
+  "version": "3.11.0",
+  "created": "2025-07-31T06:07:41Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "createcategory/index.html"
+    },
+    {
+      "path": "createcoupon/index.html"
+    },
+    {
+      "path": "createproduct/index.html"
+    },
+    {
+      "path": "createtag/index.html"
+    },
+    {
+      "path": "createvariant/index.html"
+    },
+    {
+      "path": "dashboard/index.html"
+    },
+    {
+      "path": "importdata/index.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "managebanner/index.html"
+    },
+    {
+      "path": "manageshippingcharges/index.html"
+    },
+    {
+      "path": "managestock/index.html"
+    },
+    {
+      "path": "ordermanagement/index.html"
+    },
+    {
+      "path": "productmanagement/index.html"
+    },
+    {
+      "path": "resources/css/retype.css"
+    },
+    {
+      "path": "resources/fonts/Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources/fonts/Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources/js/config.js"
+    },
+    {
+      "path": "resources/js/lunr.js"
+    },
+    {
+      "path": "resources/js/prism.js",
+      "old": true
+    },
+    {
+      "path": "resources/js/retype.js"
+    },
+    {
+      "path": "resources/js/search.json"
+    },
+    {
+      "path": "resources/lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    }
+  ]
+}
