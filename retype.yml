@@ -1,5 +1,5 @@
 input: .
-output: .retype
+output: site
 
 url: docs.example.com # Use your website address here
 
@@ -12,8 +12,8 @@ branding:
   label: &1747513408 Docs
 
 links:
-- text: Docs
-  link: /docs
+- text: Home
+  link: /
 
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
