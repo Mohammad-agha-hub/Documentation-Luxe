@@ -30,6 +30,9 @@ It might take a while to update the product when you click **Update Product** bu
 !!!
 You should write the product price again while creating variant combination.
 !!!
+!!!
+If you are making a variant combination for the same color but different size, then use the same color code or else another color will get added.
+!!!
 >"Click **Save Product** button to save the variant combination for the product and you can also delete the product itself by clicking on **Delete Product**" button.
 
 !!!
