@@ -1,6 +1,6 @@
 {
   "version": "3.11.0",
-  "created": "2025-07-31T06:20:56Z",
+  "created": "2025-09-17T05:47:24Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -46,6 +46,12 @@
     },
     {
       "path": "ordermanagement/index.html"
+    },
+    {
+      "path": "package-lock.json"
+    },
+    {
+      "path": "package.json"
     },
     {
       "path": "productmanagement/index.html"

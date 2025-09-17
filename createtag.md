@@ -11,6 +11,9 @@ Don't leave any of the input fields empty.
 !!!
 If you are creating a **Tag** use the above two input fields.
 !!!
+!!!
+Don't add any tag or subtag for Just In and Sale category, they are created automatically.
+!!!
 
 1. In the first input field, provide the tag name and then select the category to which it belongs to.
 2. Click **Add** button to add the tag.
